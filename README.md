@@ -6,7 +6,7 @@ This eight-hour workshop introduces students to the data science workflow using 
 
 **Instructor**: Hani Safadi **Email**: [hanisaf@uga.edu](mailto:hanisaf@uga.edu) **Phone**: 706-542-3341
 
-**Office**: Benson C420 **Office hours**: TBA
+**Office**: Benson C420 **Office hours**: Mondays and Wednesdays 10:30 – 11:10am and 1:10 – 1:50pm
 
 **Location**: Correll 0315 **Time**: 2:00-4:00pm 
 
@@ -15,6 +15,9 @@ This eight-hour workshop introduces students to the data science workflow using 
 **Slack workspace**: [https://uga-python-bootcamp.slack.com](https://uga-python-bootcamp.slack.com)
 
 **Dates**: Wednesdays January 16, January 23, January 30, February 6 2019
+
+## Prerequisites
+Basic knowledge of computer programming and statistics
 
 ## Topics
 1. [Python language fundamentals](https://nbviewer.jupyter.org/github/hanisaf/python-bootcamp/blob/master/01-python-language-fundamentals.ipynb)
